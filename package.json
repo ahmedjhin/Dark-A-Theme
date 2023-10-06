@@ -1,0 +1,21 @@
+{
+  "name": "Dark-A",
+  "displayName": "Dark A",
+  "description": "ahmedjhin Theme!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark A",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark A-color-theme.json"
+      }
+    ]
+  }
+}
